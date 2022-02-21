@@ -1,0 +1,10 @@
+Olá pessoal,
+
+Neste final de semana finalizei o estudo de um conteúdo espetacular disponibilizado pelo professor @Stephen Klosterman. Este livro é um ótimo conteúdo para quem deseja migrar para área de dados e/ou aprimorar os conhecimentos.
+O “Data Science Projects with Python” consegue reunir os principais conceitos que surgiram ao longo dos anos para desenvolver(avaliar) modelos de Machine Learning. O livro é bem interessante, principalmente pelos exemplos Hand’s On, que exemplifica na prática o que muitas vezes é visto somente na teoria.
+
+Fica aí a recomendação do livro:
+https://www.amazon.com.br/Data-Science-Projects-Python-approach/dp/1800564481/ref=asc_df_1800564481/?tag=googleshopp00-20&linkCode=df0&hvadid=379735814613&hvpos=&hvnetw=g&hvrand=13736319721684090759&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20094&hvtargid=pla-1277031854096&psc=1
+
+Github do projeto:
+https://github.com/cbvreis/Book_Data-Science-Projects-with-Python-P
