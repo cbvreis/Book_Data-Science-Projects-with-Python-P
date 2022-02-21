@@ -11,7 +11,7 @@ O “Data Science Projects with Python” consegue reunir os principais conceito
 </br>
 
 <p align="center"> 
-  <img src="includes/image.jpeg" alt="Página inicial" width="100%">
+  <img src="include/image.jpeg" alt="Página inicial" width="100%">
 </p>
 
 </br>
